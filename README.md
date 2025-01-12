@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
- 
-<head>
-    <title>
-        Basic Example to Describe JavaScript
-    </title>
-</head>
- 
-<body>
- 
-    <!-- JavaScript code can be embedded inside
-        head section or body section -->
-    <script>
-        console.log("Hello World - Week 1");
-        alert("Hello World!!!");
-	document.write("Welcome Hello, World!");
-    </script>
-</body>
- 
-</html>
+This respiratory is for practicing the GitHub Flow 
+Hi,This is Mopurisiddaredygari Lakshmi Narayanareddy, I am from India. Currently I am staying in Chicago. 
+Coming to my professional experience, I worked as a software engineer at LTIMindtree Technologies India Pvt Ltd.
